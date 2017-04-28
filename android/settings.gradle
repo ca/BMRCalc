@@ -1,0 +1,3 @@
+rootProject.name = 'BMRCalc'
+
+include ':app'
